@@ -1,0 +1,9 @@
+langchain-openai
+streamlit
+pandas
+numpy
+langchain-community
+dotenv
+chromadb
+certifi
+langchain-ollama

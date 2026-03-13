@@ -1,0 +1,11 @@
+id,name,age,location,education,income_level,employment,insurance_coverage,appointment_access,admission_stats,notes,lpd,risk_factor,due_date,actual_delivery_date,outcome,role
+p_001,Alice Tan,28,Singapore,College,Middle,Employed,Yes,Regular,Admitted once,First pregnancy,2026-01-15,Low,2026-08-20,,Ongoing,patient
+p_002,Maria Lopez,32,Philippines,High School,Low,Unemployed,No,Limited,None,History of anemia,2026-02-10,Medium,2026-09-05,,Ongoing,patient
+p_003,Grace Chen,26,Malaysia,College,Middle,Employed,Yes,Regular,Admitted twice,Gestational diabetes,2026-01-25,High,2026-08-30,,Ongoing,patient
+p_004,Anita Patel,35,India,Graduate,High,Employed,Yes,Regular,Admitted once,High blood pressure,2025-12-20,High,2026-07-15,,Ongoing,patient
+p_005,Sarah Johnson,29,USA,College,Middle,Employed,Yes,Regular,None,First pregnancy,2026-02-05,Low,2026-09-10,,Ongoing,patient
+p_006,Nadia Ahmed,31,Indonesia,High School,Low,Unemployed,No,Limited,None,Limited prenatal care,2026-01-18,Medium,2026-08-25,,Ongoing,patient
+p_007,Emily Wong,27,Hong Kong,College,Middle,Employed,Yes,Regular,Admitted once,History of miscarriage,2026-01-30,Medium,2026-09-01,,Ongoing,patient
+p_008,Jessica Brown,33,UK,Graduate,High,Employed,Yes,Regular,Admitted twice,Pre-eclampsia risk,2025-12-28,High,2026-07-20,,Ongoing,patient
+p_009,Thandiwe Ndlovu,30,South Africa,High School,Low,Unemployed,No,Limited,None,Limited access to care,2026-02-12,Medium,2026-09-12,,Ongoing,patient
+p_010,Leila Hassan,25,Egypt,College,Middle,Employed,Yes,Regular,None,First pregnancy,2026-02-08,Low,2026-09-08,,Ongoing,patient
